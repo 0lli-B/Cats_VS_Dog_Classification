@@ -6,3 +6,5 @@
 
 2. Notebook: Dogs_Cats_Model_1
   -> Load data, build model & tune hyperparameter, predict some unseen & unlabeled examples
+  
+3. Notebook: Do it with PyTorch including Transfer Learning
